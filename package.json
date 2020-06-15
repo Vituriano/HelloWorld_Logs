@@ -1,0 +1,11 @@
+{
+  "name": "log4noobs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Vituriano/log4noobs.git",
+  "author": "Vituriano <viturianooliveira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
